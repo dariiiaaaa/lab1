@@ -2,7 +2,7 @@
   "task_id": 1,
   "title": "Оценка экономической эффективности внедрения облачной CRM",
   "source": "Условие экзаменационной задачи",
-  "as_of_date": "2026-09-02",
+  "as_of_date": "2026-10-15",
   "sales_managers": 15,
   "monthly_salary_rub": 120000,
   "routine_time_share_before": 0.3,
@@ -21,7 +21,7 @@
   "sensitivity_growth_step": 0.01,
   "assumed_sales_margin": 1.0,
   "pilot_managers": 5,
-  "student": "Глазков Тимофей Владимирович",
+  "student": "Кузнецова Дарья Михайловна",
   "group": "БИ ОЗФО5-1",
   "company_name": "ТехноПром"
 }
